@@ -27,8 +27,5 @@ int main(){
     }
 
     cout << months << "\n";
-
-
-
     return 0;
 }
