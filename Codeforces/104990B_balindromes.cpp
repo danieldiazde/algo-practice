@@ -11,7 +11,7 @@ ll get_palindromes(string S) {
     ll palindromes = 0;
     int len = S.size();
 
-    // 1. Smaller lengths
+    // 1. Count the palindromes of smaller lengths
     for (int i = 1; i < len; i++) {
         ll temp = 9;
         
@@ -25,7 +25,7 @@ ll get_palindromes(string S) {
     int left_half_len = (len + 2 - 1) / 2;
 
     string left_string = S.substr(0, left_half_len);
-    ll left_num = stoll(left_string); // Fixed typo: left_str -> left_string
+    ll left_num = stoll(left_string); 
 
     ll minimum_left = 1;
     for (int i = 0; i < left_half_len - 1; i++) {
@@ -34,7 +34,7 @@ ll get_palindromes(string S) {
 
     palindromes += (left_num - minimum_left);
 
-    // 3. The Mirror Check
+    // 3. The Mirror Check (check if exactly that number is a palindrome)
     string mirrored = left_string;
 
     for (int i = len / 2 - 1; i >= 0; i--) {
