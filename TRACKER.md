@@ -26,10 +26,10 @@
 
 ## 📅 Phase 3: Transition
 - [X] **Mon, 2026-04-20:** LC: 1. Two Sum | LC: 217. Contains Duplicate | C++: C++ setup, Hello World, cin/cout
-- [ ] **Tue, 2026-04-21:** LC: 242. Valid Anagram | LC: 49. Group Anagrams | C++: Vectors, strings, sorting, bits/stdc++.h
-- [ ] **Wed, 2026-04-22:** LC: 347. Top K Frequent Elements | LC: 238. Product of Array Except Self | C++: Maps, sets, pairs, range-for
-- [ ] **Thu, 2026-04-23:** LC: 36. Valid Sudoku | LC: 128. Longest Consecutive Sequence | C++: BFS/DFS templates in C++
-- [ ] **Fri, 2026-04-24:** LC: 125. Valid Palindrome | LC: 15. 3Sum | C++: Binary search: lower_bound, upper_bound
+- [X] **Tue, 2026-04-21:** LC: 242. Valid Anagram | LC: 49. Group Anagrams | C++: Vectors, strings, sorting, bits/stdc++.h
+- [X] **Wed, 2026-04-22:** LC: 347. Top K Frequent Elements | LC: 238. Product of Array Except Self | C++: Maps, sets, pairs, range-for
+- [X] **Thu, 2026-04-23:** LC: 36. Valid Sudoku | LC: 128. Longest Consecutive Sequence | C++: BFS/DFS templates in C++
+- [X] **Fri, 2026-04-24:** LC: 125. Valid Palindrome | LC: 15. 3Sum | C++: Binary search: lower_bound, upper_bound
 - [ ] **Sat, 2026-04-25:** LC: 11. Container With Most Water | LC: 167. Two Sum II | LC: 42. Trapping Rain Water | LC: 121. Best Time to Buy and Sell Stock | C++: Prefix sum + sieve in C++ | CF 1294C Product of Three Numbers [1200] | ↺ Redo LC 76 Min Window Substring (under 10 min) | Full-stack: core feature #1
 - [ ] **Sun, 2026-04-26:** LC: 3. Longest Substring Without Repeating | Full-stack: core feature #2 | Full-stack: bug fixes + testing | C++: STL: stack, queue, priority_queue
 - [ ] **Mon, 2026-04-27:** LC: 424. Longest Repeating Character Replacement | LC: 567. Permutation in String | C++: Re-solve 5 CF 800-1000 in C++
