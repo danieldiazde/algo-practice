@@ -36,7 +36,7 @@
 - [X] **Tue, 2026-04-28:** LC: 76. Minimum Window Substring | LC: 20. Valid Parentheses | C++: Recursion + DP in C++
 - [X] **Wed, 2026-04-29:** LC: 155. Min Stack | LC: 150. Evaluate Reverse Polish Notation | C++: Graphs: adj list, BFS/DFS C++
 - [X] **Thu, 2026-04-30:** LC: 22. Generate Parentheses | LC: 739. Daily Temperatures | C++: Dijkstra in C++
-- [ ] **Fri, 2026-05-01:** LC: 853. Car Fleet | LC: 84. Largest Rectangle in Histogram | C++: Knapsack + LIS in C++
+- [X] **Fri, 2026-05-01:** LC: 853. Car Fleet | LC: 84. Largest Rectangle in Histogram | C++: Knapsack + LIS in C++
 - [ ] **Sat, 2026-05-02:** LC: 704. Binary Search | LC: 33. Search in Rotated Sorted Array | LC: 153. Find Min Rotated Sorted | LC: 875. Koko Eating Bananas | C++: CF 1000 comfortably in C++ | CF 1294D MEX maximizing [1200] | ↺ Redo LC 42 Trapping Rain Water (under 8 min) 
 - [ ] **Sun, 2026-05-03:** LC: 74. Search 2D Matrix | C++: CF 1100 in C++
 - [ ] **Mon, 2026-05-04:** LC: 981. Time Based Key-Value Store | LC: 4. Median of Two Sorted Arrays | C++: All templates ported to C++
