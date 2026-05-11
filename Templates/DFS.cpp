@@ -22,7 +22,7 @@ void DFS_Iterative(int start_node, vector<vector<int>>& adj, int n) {
     }
 }
 
-void DFS_DP(int node, vector<vector<int>>& adj) {
+void DFS_DP(int node, vector<vector<int>>& adj, int n) {
     vector<bool> visited(n + 1, false);
     visited[node] = true;
     

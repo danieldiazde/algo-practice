@@ -40,7 +40,7 @@
 - [X] **Sat, 2026-05-02:** LC: 704. Binary Search | LC: 33. Search in Rotated Sorted Array | LC: 153. Find Min Rotated Sorted | LC: 875. Koko Eating Bananas | C++: CF 1000 comfortably in C++ | CF 1294D MEX maximizing [1200] | ↺ Redo LC 42 Trapping Rain Water (under 8 min) 
 - [X] **Sun, 2026-05-03:** LC: 74. Search 2D Matrix | C++: CF 1100 in C++
 - [X] **Mon, 2026-05-04:** LC: 981. Time Based Key-Value Store | LC: 4. Median of Two Sorted Arrays | C++: All templates ported to C++
-- [ ] **Tue, 2026-05-05:** LC: 206. Reverse Linked List | LC: 21. Merge Two Sorted Lists | C++: Virtual A+B in C++
+- [X] **Tue, 2026-05-05:** LC: 206. Reverse Linked List | LC: 21. Merge Two Sorted Lists | C++: Virtual A+B in C++
 - [ ] **Wed, 2026-05-06:** LC: 141. Linked List Cycle | LC: 143. Reorder List | C++: 1100 in <15min C++
 - [ ] **Thu, 2026-05-07:** LC: 19. Remove Nth From End | LC: 2. Add Two Numbers | C++: multiset, unordered_map, bitset
 - [ ] **Fri, 2026-05-08:** LC: 138. Copy List Random Pointer | LC: 146. LRU Cache | C++: String manipulation, stringstream
