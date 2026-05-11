@@ -1,5 +1,5 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
         seen = {}
         for i in range(len(nums)):
             complement = target - nums[i]
@@ -7,3 +7,4 @@ class Solution:
                 return [seen[complement], i]
             else:
                 seen[nums[i]] = i
+        return [-1]

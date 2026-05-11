@@ -1,28 +1,27 @@
 class Solution:
-    def trap(self, height: List[int]) -> int:
-        if not height: return 0
+    def trap(self, height: list[int]) -> int:
+        n = len(height)
+        left = [0] * n
+        right = [0] * n
 
-        # The amount of water that can be held depends on the minimum to the furthest left and furthest right
-        L = [0] * len(height)
-        R = [0] * len(height)
-        L[0] = height[0]
-        R[-1] = height[-1]
+        max_left = 0
+        max_right = 0
+        for i in range(1, n):
+            max_left = max(height[i - 1], max_left)
+            left[i] = max_left
 
-        for i in range(1, len(height)):
-            L[i] = max(height[i], L[i - 1])
+        for i in range(n - 2, -1, -1):
+            max_right = max(height[i + 1], max_right)
+            right[i] = max_right
         
-        for i in range(len(height) - 2, -1 , -1):
-            R[i] = max(height[i], R[i + 1])
+        ans = 0
+        for i in range(n):
+            ans += max(0, min(right[i], left[i]) - height[i])
 
-        water = 0
-        for i in range(len(height)):
-            water += min(L[i], R[i]) - height[i]
-        
-        return water
-        
+        return ans
 
 
 
-
-        
+s = Solution()
+print(s.trap([0,1,0,2,1,0,1,3,2,1,2,1]))
         

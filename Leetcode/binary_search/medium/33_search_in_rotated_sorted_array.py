@@ -1,5 +1,5 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
+    def search(self, nums: list[int], target: int) -> int: # type: ignore
         
         indexes = {}
         for i in range(len(nums)):
@@ -16,5 +16,5 @@ class Solution:
             else:
                 high = mid - 1
 
-        if nums[mid] in indexes:
-            return indexes[nums[mid]] if nums[mid] == target else -1
+        if nums[mid] in indexes: # type: ignore
+            return indexes[nums[mid]] if nums[mid] == target else -1 # type: ignore
