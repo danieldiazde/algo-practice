@@ -161,8 +161,8 @@ Purpose: close the gap from the last completed date without pretending the old m
 ## Core
 ### LeetCode — 4 new + 2 redos
 - [X] LC: 141. Linked List Cycle
-- [ ] LC: 143. Reorder List
-- [ ] LC: 19. Remove Nth From End
+- [X] LC: 143. Reorder List
+- [X] LC: 19. Remove Nth From End
 - [ ] LC: 2. Add Two Numbers
 - [ ] ↺ Error Log redo #1 — choose one failed/slow problem
 - [ ] ↺ Error Log redo #2 — choose one failed/slow problem
