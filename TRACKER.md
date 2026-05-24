@@ -160,7 +160,7 @@ Purpose: close the gap from the last completed date without pretending the old m
 
 ## Core
 ### LeetCode — 4 new + 2 redos
-- [ ] LC: 141. Linked List Cycle
+- [X] LC: 141. Linked List Cycle
 - [ ] LC: 143. Reorder List
 - [ ] LC: 19. Remove Nth From End
 - [ ] LC: 2. Add Two Numbers
