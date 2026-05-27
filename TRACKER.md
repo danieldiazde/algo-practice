@@ -163,9 +163,7 @@ Purpose: close the gap from the last completed date without pretending the old m
 - [X] LC: 141. Linked List Cycle
 - [X] LC: 143. Reorder List
 - [X] LC: 19. Remove Nth From End
-- [ ] LC: 2. Add Two Numbers
-- [ ] ↺ Error Log redo #1 — choose one failed/slow problem
-- [ ] ↺ Error Log redo #2 — choose one failed/slow problem
+- [X] LC: 2. Add Two Numbers
 
 ### Readiness
 - [ ] Cold-start mock: 1 random LC medium / 35 minutes / verbal explanation
@@ -183,7 +181,7 @@ Purpose: close the gap from the last completed date without pretending the old m
 
 - _Stretch cap hit: extra LC items moved to the Deferred Optional Bank, not this week._
 ### Codeforces / C++ Bank
-- [ ] CF 1462D Add to Neighbour [1200]
+- [X] CF 1462D Add to Neighbour [1400]
 - [ ] CF 977F Consecutive Subsequence [1200]
 - [ ] C++: 1100 in <15min C++
 - [ ] C++: multiset, unordered_map, bitset
